@@ -2,7 +2,6 @@
 //Implementation of Prefixer function
 function prefixer(greet) {
     return (name) => `${greet}${name}`
-
 }
 //End of Implementation of Prefixer function
 const sayHiTo = prefixer('Hello ')

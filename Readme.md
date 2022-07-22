@@ -15,7 +15,7 @@ By taking this course, I will be fully prepared for the OpenJS Node.js Applicati
 - Chapter 3. The Node Binary ✅
 - Chapter 4. Debugging & Diagnostics ✅
 - Chapter 5. Key JavaScript Concepts ✅
-- Chapter 6. Packages & Dependencies 
+- Chapter 6. Packages & Dependencies ✅
 - Chapter 7. Node’s Module System 
 - Chapter 8. Asynchronous Control Flow 
 - Chapter 9. Node’s Event System 
