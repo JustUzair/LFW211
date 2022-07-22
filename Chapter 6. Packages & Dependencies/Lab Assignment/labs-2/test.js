@@ -24,5 +24,5 @@ console.log('passed')
 
 /*
 Fastify : npm install fastify@">=2.0.0 <3.0.0" // Had to manually set "fastify": "^2.0.0", in package.json, i don't know why default didn't work, it was within the range
-rfdc:  npm install -E rfdc@1.1.3
+rfdc: npm install -E rfdc@1.1.3
 */
