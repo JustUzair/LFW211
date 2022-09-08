@@ -20,7 +20,7 @@ By taking this course, I will be fully prepared for the OpenJS Node.js Applicati
 - Chapter 8. Asynchronous Control Flow ✅
 - Chapter 9. Node’s Event System ✅
 - Chapter 10. Handling Errors ✅
-- Chapter 11. Using Buffers
+- Chapter 11. Using Buffers ✅
 - Chapter 12. Working with Streams
 - Chapter 13. Interacting with the File System
 - Chapter 14. Process & Operating System
